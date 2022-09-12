@@ -1,7 +1,6 @@
 import { memo, useCallback, useState, useEffect } from "react";
 
 import "./style.css";
-import i18n from "./i18n/en";
 import { JobsList } from "../../components";
 
 import { getJobs } from "./../../api";
