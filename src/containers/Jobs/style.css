@@ -9,15 +9,20 @@ section.jobs article {
   margin-bottom: 50px;
 }
 
-.latest_post {
-  color: #212529;
-  font-size: 16.2px;
-  letter-spacing: normal;
-  font-family: "Neufile Grotesk Light", sans-serif;
-  font-weight: 200;
-  margin-left: 8px;
+@media (max-width: 1199.98px) {
+  section {
+    width: 768px;
+  }
 }
 
-.feed {
-  margin-left: 8px;
+@media (max-width: 767.98px) {
+  section {
+    width: 575px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  section {
+    width: 375px;
+  }
 }
