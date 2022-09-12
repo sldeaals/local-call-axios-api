@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "company_name": "Clevertech",
+      "job_name": "Senior React Engineer",
+      "job_type": "Full-Time",
+      "location": "Anywhere in the World",
+      "is_featured": true,
+      "is_new": true,
+      "date_posted": "Jan 12"
+    },
+    {
+      "id": 2,
+      "company_name": "Vaan Group",
+      "job_name": "Junior React Engineer",
+      "job_type": "Full-Time",
+      "location": "Anywhere in the World",
+      "is_featured": true,
+      "is_new": false,
+      "date_posted": "Jan 11"
+    },
+    {
+      "id": 3,
+      "company_name": "Test Dome",
+      "job_name": "Software Tester",
+      "job_type": "Full-Time",
+      "location": "Anywhere in the World",
+      "is_featured": false,
+      "is_new": false,
+      "date_posted": "Jan 10"
+    }
+]
