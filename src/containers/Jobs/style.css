@@ -1,0 +1,23 @@
+section {
+  width: 950px;
+  margin: 0 auto;
+  font-size: 19.2px;
+}
+
+section.jobs article {
+  clear: both;
+  margin-bottom: 50px;
+}
+
+.latest_post {
+  color: #212529;
+  font-size: 16.2px;
+  letter-spacing: normal;
+  font-family: "Neufile Grotesk Light", sans-serif;
+  font-weight: 200;
+  margin-left: 8px;
+}
+
+.feed {
+  margin-left: 8px;
+}
